@@ -4,6 +4,8 @@
  
  sudo modprobe uvcvideo
  
+ изменить настройки камеры можно в /scripts/marker_filter.py
+ 
  
 
 
